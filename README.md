@@ -32,7 +32,6 @@ math problems, and even remember the user's name.
 
     ```bash
     https://github.com/Rohitrebel/cli-simple-chatbot.git
-    cd chatbot
     ```
 
 2.  Run the chatbot:
